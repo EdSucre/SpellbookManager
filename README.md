@@ -1,2 +1,2 @@
-# sbm.github.io
+# Readme Spellbook Manager
 Spellbook Manager
